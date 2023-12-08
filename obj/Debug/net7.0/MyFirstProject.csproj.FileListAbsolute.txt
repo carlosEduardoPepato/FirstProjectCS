@@ -1,0 +1,14 @@
+C:\Users\carlos.pepato\Documents\Projetos\C#\MyFirstProject\bin\Debug\net7.0\MyFirstProject.exe
+C:\Users\carlos.pepato\Documents\Projetos\C#\MyFirstProject\bin\Debug\net7.0\MyFirstProject.deps.json
+C:\Users\carlos.pepato\Documents\Projetos\C#\MyFirstProject\bin\Debug\net7.0\MyFirstProject.runtimeconfig.json
+C:\Users\carlos.pepato\Documents\Projetos\C#\MyFirstProject\bin\Debug\net7.0\MyFirstProject.dll
+C:\Users\carlos.pepato\Documents\Projetos\C#\MyFirstProject\bin\Debug\net7.0\MyFirstProject.pdb
+C:\Users\carlos.pepato\Documents\Projetos\C#\MyFirstProject\obj\Debug\net7.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.pepato\Documents\Projetos\C#\MyFirstProject\obj\Debug\net7.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\carlos.pepato\Documents\Projetos\C#\MyFirstProject\obj\Debug\net7.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\carlos.pepato\Documents\Projetos\C#\MyFirstProject\obj\Debug\net7.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\carlos.pepato\Documents\Projetos\C#\MyFirstProject\obj\Debug\net7.0\MyFirstProject.dll
+C:\Users\carlos.pepato\Documents\Projetos\C#\MyFirstProject\obj\Debug\net7.0\refint\MyFirstProject.dll
+C:\Users\carlos.pepato\Documents\Projetos\C#\MyFirstProject\obj\Debug\net7.0\MyFirstProject.pdb
+C:\Users\carlos.pepato\Documents\Projetos\C#\MyFirstProject\obj\Debug\net7.0\MyFirstProject.genruntimeconfig.cache
+C:\Users\carlos.pepato\Documents\Projetos\C#\MyFirstProject\obj\Debug\net7.0\ref\MyFirstProject.dll
